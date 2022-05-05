@@ -1,0 +1,13 @@
+C:\Users\Multimedia\source\repos\BugTracking\bin\Debug\BugTracking.exe
+C:\Users\Multimedia\source\repos\BugTracking\bin\Debug\BugTracking.exe.config
+C:\Users\Multimedia\source\repos\BugTracking\bin\Debug\BugTracking.pdb
+C:\Users\Multimedia\source\repos\BugTracking\obj\Debug\BugTracking.csproj.AssemblyReference.cache
+C:\Users\Multimedia\source\repos\BugTracking\obj\Debug\BugTracking.csproj.SuggestedBindingRedirects.cache
+C:\Users\Multimedia\source\repos\BugTracking\obj\Debug\BugTracking.LogBug.resources
+C:\Users\Multimedia\source\repos\BugTracking\obj\Debug\BugTracking.LoginRegister.resources
+C:\Users\Multimedia\source\repos\BugTracking\obj\Debug\BugTracking.Properties.Resources.resources
+C:\Users\Multimedia\source\repos\BugTracking\obj\Debug\BugTracking.UpdateBug.resources
+C:\Users\Multimedia\source\repos\BugTracking\obj\Debug\BugTracking.csproj.GenerateResource.cache
+C:\Users\Multimedia\source\repos\BugTracking\obj\Debug\BugTracking.csproj.CoreCompileInputs.cache
+C:\Users\Multimedia\source\repos\BugTracking\obj\Debug\BugTracking.exe
+C:\Users\Multimedia\source\repos\BugTracking\obj\Debug\BugTracking.pdb

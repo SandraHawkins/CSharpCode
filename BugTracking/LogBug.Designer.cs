@@ -28,8 +28,8 @@
         /// </summary>
         private void InitializeComponent()
         {
+            this.components = new System.ComponentModel.Container();
             this.label1 = new System.Windows.Forms.Label();
-            this.label2 = new System.Windows.Forms.Label();
             this.label3 = new System.Windows.Forms.Label();
             this.label4 = new System.Windows.Forms.Label();
             this.label5 = new System.Windows.Forms.Label();
@@ -43,6 +43,22 @@
             this.rbMinor = new System.Windows.Forms.RadioButton();
             this.CmbProductName = new System.Windows.Forms.ComboBox();
             this.BtnSave = new System.Windows.Forms.Button();
+            this.BtnGetBugsByID = new System.Windows.Forms.Button();
+            this.TxtUsersID = new System.Windows.Forms.TextBox();
+            this.label2 = new System.Windows.Forms.Label();
+            this.label7 = new System.Windows.Forms.Label();
+            this.myTableAdapter1 = new BugTracking.BugTrackingDataSetTableAdapters.MyTableAdapter();
+            this.dataGridView1 = new System.Windows.Forms.DataGridView();
+            this.bugTrackingDataSet = new BugTracking.BugTrackingDataSet();
+            this.myDataTableBindingSource = new System.Windows.Forms.BindingSource(this.components);
+            this.firstNameDataGridViewTextBoxColumn = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.lastNameDataGridViewTextBoxColumn = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.productNameDataGridViewTextBoxColumn = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.detailsDataGridViewTextBoxColumn = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.idDataGridViewTextBoxColumn = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            ((System.ComponentModel.ISupportInitialize)(this.dataGridView1)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.bugTrackingDataSet)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.myDataTableBindingSource)).BeginInit();
             this.SuspendLayout();
             // 
             // label1
@@ -55,16 +71,6 @@
             this.label1.Size = new System.Drawing.Size(446, 38);
             this.label1.TabIndex = 0;
             this.label1.Text = "Please Log Details of the Bug";
-            // 
-            // label2
-            // 
-            this.label2.AutoSize = true;
-            this.label2.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label2.Location = new System.Drawing.Point(70, 131);
-            this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(168, 25);
-            this.label2.TabIndex = 2;
-            this.label2.Text = "Customer\'s Name";
             // 
             // label3
             // 
@@ -204,11 +210,126 @@
             this.BtnSave.UseVisualStyleBackColor = true;
             this.BtnSave.Click += new System.EventHandler(this.BtnSave_Click);
             // 
+            // BtnGetBugsByID
+            // 
+            this.BtnGetBugsByID.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.BtnGetBugsByID.Location = new System.Drawing.Point(699, 110);
+            this.BtnGetBugsByID.Name = "BtnGetBugsByID";
+            this.BtnGetBugsByID.Size = new System.Drawing.Size(197, 66);
+            this.BtnGetBugsByID.TabIndex = 9;
+            this.BtnGetBugsByID.Text = "Execute Query BugsByID";
+            this.BtnGetBugsByID.UseVisualStyleBackColor = true;
+            this.BtnGetBugsByID.Click += new System.EventHandler(this.BtnGetBugsByID_Click);
+            // 
+            // TxtUsersID
+            // 
+            this.TxtUsersID.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.TxtUsersID.Location = new System.Drawing.Point(699, 74);
+            this.TxtUsersID.Name = "TxtUsersID";
+            this.TxtUsersID.Size = new System.Drawing.Size(197, 30);
+            this.TxtUsersID.TabIndex = 10;
+            // 
+            // label2
+            // 
+            this.label2.AutoSize = true;
+            this.label2.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label2.Location = new System.Drawing.Point(70, 131);
+            this.label2.Name = "label2";
+            this.label2.Size = new System.Drawing.Size(168, 25);
+            this.label2.TabIndex = 2;
+            this.label2.Text = "Customer\'s Name";
+            // 
+            // label7
+            // 
+            this.label7.AutoSize = true;
+            this.label7.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label7.Location = new System.Drawing.Point(694, 46);
+            this.label7.Name = "label7";
+            this.label7.Size = new System.Drawing.Size(91, 25);
+            this.label7.TabIndex = 11;
+            this.label7.Text = "User\'s ID";
+            // 
+            // myTableAdapter1
+            // 
+            this.myTableAdapter1.ClearBeforeFill = true;
+            // 
+            // dataGridView1
+            // 
+            this.dataGridView1.AutoGenerateColumns = false;
+            this.dataGridView1.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
+            this.dataGridView1.Columns.AddRange(new System.Windows.Forms.DataGridViewColumn[] {
+            this.firstNameDataGridViewTextBoxColumn,
+            this.lastNameDataGridViewTextBoxColumn,
+            this.productNameDataGridViewTextBoxColumn,
+            this.detailsDataGridViewTextBoxColumn,
+            this.idDataGridViewTextBoxColumn});
+            this.dataGridView1.DataSource = this.myDataTableBindingSource;
+            this.dataGridView1.Location = new System.Drawing.Point(922, 64);
+            this.dataGridView1.Name = "dataGridView1";
+            this.dataGridView1.RowHeadersWidth = 51;
+            this.dataGridView1.RowTemplate.Height = 24;
+            this.dataGridView1.Size = new System.Drawing.Size(654, 150);
+            this.dataGridView1.TabIndex = 12;
+            // 
+            // bugTrackingDataSet
+            // 
+            this.bugTrackingDataSet.DataSetName = "BugTrackingDataSet";
+            this.bugTrackingDataSet.SchemaSerializationMode = System.Data.SchemaSerializationMode.IncludeSchema;
+            // 
+            // myDataTableBindingSource
+            // 
+            this.myDataTableBindingSource.DataMember = "MyDataTable";
+            this.myDataTableBindingSource.DataSource = this.bugTrackingDataSet;
+            // 
+            // firstNameDataGridViewTextBoxColumn
+            // 
+            this.firstNameDataGridViewTextBoxColumn.DataPropertyName = "firstName";
+            this.firstNameDataGridViewTextBoxColumn.HeaderText = "firstName";
+            this.firstNameDataGridViewTextBoxColumn.MinimumWidth = 6;
+            this.firstNameDataGridViewTextBoxColumn.Name = "firstNameDataGridViewTextBoxColumn";
+            this.firstNameDataGridViewTextBoxColumn.Width = 125;
+            // 
+            // lastNameDataGridViewTextBoxColumn
+            // 
+            this.lastNameDataGridViewTextBoxColumn.DataPropertyName = "lastName";
+            this.lastNameDataGridViewTextBoxColumn.HeaderText = "lastName";
+            this.lastNameDataGridViewTextBoxColumn.MinimumWidth = 6;
+            this.lastNameDataGridViewTextBoxColumn.Name = "lastNameDataGridViewTextBoxColumn";
+            this.lastNameDataGridViewTextBoxColumn.Width = 125;
+            // 
+            // productNameDataGridViewTextBoxColumn
+            // 
+            this.productNameDataGridViewTextBoxColumn.DataPropertyName = "productName";
+            this.productNameDataGridViewTextBoxColumn.HeaderText = "productName";
+            this.productNameDataGridViewTextBoxColumn.MinimumWidth = 6;
+            this.productNameDataGridViewTextBoxColumn.Name = "productNameDataGridViewTextBoxColumn";
+            this.productNameDataGridViewTextBoxColumn.Width = 125;
+            // 
+            // detailsDataGridViewTextBoxColumn
+            // 
+            this.detailsDataGridViewTextBoxColumn.DataPropertyName = "details";
+            this.detailsDataGridViewTextBoxColumn.HeaderText = "details";
+            this.detailsDataGridViewTextBoxColumn.MinimumWidth = 6;
+            this.detailsDataGridViewTextBoxColumn.Name = "detailsDataGridViewTextBoxColumn";
+            this.detailsDataGridViewTextBoxColumn.Width = 125;
+            // 
+            // idDataGridViewTextBoxColumn
+            // 
+            this.idDataGridViewTextBoxColumn.DataPropertyName = "id";
+            this.idDataGridViewTextBoxColumn.HeaderText = "id";
+            this.idDataGridViewTextBoxColumn.MinimumWidth = 6;
+            this.idDataGridViewTextBoxColumn.Name = "idDataGridViewTextBoxColumn";
+            this.idDataGridViewTextBoxColumn.Width = 125;
+            // 
             // LogBug
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(955, 574);
+            this.ClientSize = new System.Drawing.Size(1588, 574);
+            this.Controls.Add(this.dataGridView1);
+            this.Controls.Add(this.label7);
+            this.Controls.Add(this.TxtUsersID);
+            this.Controls.Add(this.BtnGetBugsByID);
             this.Controls.Add(this.BtnSave);
             this.Controls.Add(this.CmbProductName);
             this.Controls.Add(this.rbLow);
@@ -226,6 +347,9 @@
             this.Controls.Add(this.label1);
             this.Name = "LogBug";
             this.Text = "Log Bug Information";
+            ((System.ComponentModel.ISupportInitialize)(this.dataGridView1)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.bugTrackingDataSet)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.myDataTableBindingSource)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();
 
@@ -234,7 +358,6 @@
         #endregion
 
         private System.Windows.Forms.Label label1;
-        private System.Windows.Forms.Label label2;
         private System.Windows.Forms.Label label3;
         private System.Windows.Forms.Label label4;
         private System.Windows.Forms.Label label5;
@@ -248,6 +371,19 @@
         private System.Windows.Forms.RadioButton rbMinor;
         private System.Windows.Forms.ComboBox CmbProductName;
         private System.Windows.Forms.Button BtnSave;
+        private System.Windows.Forms.Button BtnGetBugsByID;
+        private System.Windows.Forms.TextBox TxtUsersID;
+        private System.Windows.Forms.Label label2;
+        private System.Windows.Forms.Label label7;
+        private BugTrackingDataSetTableAdapters.MyTableAdapter myTableAdapter1;
+        private System.Windows.Forms.DataGridView dataGridView1;
+        private System.Windows.Forms.DataGridViewTextBoxColumn firstNameDataGridViewTextBoxColumn;
+        private System.Windows.Forms.DataGridViewTextBoxColumn lastNameDataGridViewTextBoxColumn;
+        private System.Windows.Forms.DataGridViewTextBoxColumn productNameDataGridViewTextBoxColumn;
+        private System.Windows.Forms.DataGridViewTextBoxColumn detailsDataGridViewTextBoxColumn;
+        private System.Windows.Forms.DataGridViewTextBoxColumn idDataGridViewTextBoxColumn;
+        private System.Windows.Forms.BindingSource myDataTableBindingSource;
+        private BugTrackingDataSet bugTrackingDataSet;
     }
 }
 

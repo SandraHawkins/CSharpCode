@@ -58,5 +58,27 @@ namespace BugTracking
                 }
             }
         }
+
+        private void BtnGetBugsByID_Click(object sender, EventArgs e)
+        {
+            
+            if (int.TryParse(TxtUsersID.Text, out int userId))
+            {
+                DataTable dataTable = myTableAdapter1.GetDataByUserID(userId);
+                foreach (DataRow row in dataTable.Rows)
+                {
+                    Console.WriteLine(row[0]);
+                    Console.WriteLine(row[1]);
+                    Console.WriteLine(row[2]);
+                    Console.WriteLine(row[3]);
+                }
+
+            } else // The textbox didn't parse
+            {
+                MessageBox.Show("Please enter a user's id");
+            }
+        
+            
+        }
     }
 }

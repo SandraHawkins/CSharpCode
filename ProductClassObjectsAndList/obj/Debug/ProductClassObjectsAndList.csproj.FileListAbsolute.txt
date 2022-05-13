@@ -1,0 +1,11 @@
+C:\Users\Multimedia\source\repos\ProductClassObjectsAndList\obj\Debug\ProductClassObjectsAndList.csproj.AssemblyReference.cache
+C:\Users\Multimedia\source\repos\ProductClassObjectsAndList\obj\Debug\ProductClassObjectsAndList.csproj.SuggestedBindingRedirects.cache
+C:\Users\Multimedia\source\repos\ProductClassObjectsAndList\obj\Debug\view.Form1.resources
+C:\Users\Multimedia\source\repos\ProductClassObjectsAndList\obj\Debug\ProductClassObjectsAndList.Properties.Resources.resources
+C:\Users\Multimedia\source\repos\ProductClassObjectsAndList\obj\Debug\ProductClassObjectsAndList.csproj.GenerateResource.cache
+C:\Users\Multimedia\source\repos\ProductClassObjectsAndList\obj\Debug\ProductClassObjectsAndList.csproj.CoreCompileInputs.cache
+C:\Users\Multimedia\source\repos\ProductClassObjectsAndList\bin\Debug\ProductClassObjectsAndList.exe.config
+C:\Users\Multimedia\source\repos\ProductClassObjectsAndList\bin\Debug\ProductClassObjectsAndList.exe
+C:\Users\Multimedia\source\repos\ProductClassObjectsAndList\bin\Debug\ProductClassObjectsAndList.pdb
+C:\Users\Multimedia\source\repos\ProductClassObjectsAndList\obj\Debug\ProductClassObjectsAndList.exe
+C:\Users\Multimedia\source\repos\ProductClassObjectsAndList\obj\Debug\ProductClassObjectsAndList.pdb

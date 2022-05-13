@@ -1,0 +1,11 @@
+C:\Users\Multimedia\source\repos\ProductClassObjectsAndListCSV_File\bin\Debug\ProductClassObjectsAndList.exe.config
+C:\Users\Multimedia\source\repos\ProductClassObjectsAndListCSV_File\bin\Debug\ProductClassObjectsAndList.exe
+C:\Users\Multimedia\source\repos\ProductClassObjectsAndListCSV_File\bin\Debug\ProductClassObjectsAndList.pdb
+C:\Users\Multimedia\source\repos\ProductClassObjectsAndListCSV_File\obj\Debug\ProductClassObjectsAndListCSV_File.csproj.AssemblyReference.cache
+C:\Users\Multimedia\source\repos\ProductClassObjectsAndListCSV_File\obj\Debug\ProductClassObjectsAndListCSV_File.csproj.SuggestedBindingRedirects.cache
+C:\Users\Multimedia\source\repos\ProductClassObjectsAndListCSV_File\obj\Debug\view.Form1.resources
+C:\Users\Multimedia\source\repos\ProductClassObjectsAndListCSV_File\obj\Debug\ProductClassObjectsAndList.Properties.Resources.resources
+C:\Users\Multimedia\source\repos\ProductClassObjectsAndListCSV_File\obj\Debug\ProductClassObjectsAndListCSV_File.csproj.GenerateResource.cache
+C:\Users\Multimedia\source\repos\ProductClassObjectsAndListCSV_File\obj\Debug\ProductClassObjectsAndListCSV_File.csproj.CoreCompileInputs.cache
+C:\Users\Multimedia\source\repos\ProductClassObjectsAndListCSV_File\obj\Debug\ProductClassObjectsAndList.exe
+C:\Users\Multimedia\source\repos\ProductClassObjectsAndListCSV_File\obj\Debug\ProductClassObjectsAndList.pdb

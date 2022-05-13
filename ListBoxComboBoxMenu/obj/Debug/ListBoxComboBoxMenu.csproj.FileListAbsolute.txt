@@ -1,0 +1,12 @@
+C:\Users\Multimedia\source\repos\ListBoxComboBoxMenu\bin\Debug\ListBoxComboBoxMenu.exe.config
+C:\Users\Multimedia\source\repos\ListBoxComboBoxMenu\bin\Debug\ListBoxComboBoxMenu.exe
+C:\Users\Multimedia\source\repos\ListBoxComboBoxMenu\bin\Debug\ListBoxComboBoxMenu.pdb
+C:\Users\Multimedia\source\repos\ListBoxComboBoxMenu\obj\Debug\ListBoxComboBoxMenu.csproj.AssemblyReference.cache
+C:\Users\Multimedia\source\repos\ListBoxComboBoxMenu\obj\Debug\ListBoxComboBoxMenu.csproj.SuggestedBindingRedirects.cache
+C:\Users\Multimedia\source\repos\ListBoxComboBoxMenu\obj\Debug\ListBoxComboBoxMenu.Form1.resources
+C:\Users\Multimedia\source\repos\ListBoxComboBoxMenu\obj\Debug\ListBoxComboBoxMenu.Properties.Resources.resources
+C:\Users\Multimedia\source\repos\ListBoxComboBoxMenu\obj\Debug\ListBoxComboBoxMenu.csproj.GenerateResource.cache
+C:\Users\Multimedia\source\repos\ListBoxComboBoxMenu\obj\Debug\ListBoxComboBoxMenu.csproj.CoreCompileInputs.cache
+C:\Users\Multimedia\source\repos\ListBoxComboBoxMenu\obj\Debug\ListBoxComboBoxMenu.exe
+C:\Users\Multimedia\source\repos\ListBoxComboBoxMenu\obj\Debug\ListBoxComboBoxMenu.pdb
+C:\Users\Multimedia\source\repos\ListBoxComboBoxMenu\obj\Debug\ListBoxComboBoxMenu.MyDialog.resources

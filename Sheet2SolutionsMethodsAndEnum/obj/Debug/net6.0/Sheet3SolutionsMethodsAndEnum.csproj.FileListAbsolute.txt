@@ -1,0 +1,15 @@
+C:\Users\Multimedia\source\repos\Sheet2SolutionsMethodsAndEnum\bin\Debug\net6.0\Sheet3SolutionsMethodsAndEnum.exe
+C:\Users\Multimedia\source\repos\Sheet2SolutionsMethodsAndEnum\bin\Debug\net6.0\Sheet3SolutionsMethodsAndEnum.deps.json
+C:\Users\Multimedia\source\repos\Sheet2SolutionsMethodsAndEnum\bin\Debug\net6.0\Sheet3SolutionsMethodsAndEnum.runtimeconfig.json
+C:\Users\Multimedia\source\repos\Sheet2SolutionsMethodsAndEnum\bin\Debug\net6.0\Sheet3SolutionsMethodsAndEnum.dll
+C:\Users\Multimedia\source\repos\Sheet2SolutionsMethodsAndEnum\bin\Debug\net6.0\ref\Sheet3SolutionsMethodsAndEnum.dll
+C:\Users\Multimedia\source\repos\Sheet2SolutionsMethodsAndEnum\bin\Debug\net6.0\Sheet3SolutionsMethodsAndEnum.pdb
+C:\Users\Multimedia\source\repos\Sheet2SolutionsMethodsAndEnum\obj\Debug\net6.0\Sheet3SolutionsMethodsAndEnum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Multimedia\source\repos\Sheet2SolutionsMethodsAndEnum\obj\Debug\net6.0\Sheet3SolutionsMethodsAndEnum.AssemblyInfoInputs.cache
+C:\Users\Multimedia\source\repos\Sheet2SolutionsMethodsAndEnum\obj\Debug\net6.0\Sheet3SolutionsMethodsAndEnum.AssemblyInfo.cs
+C:\Users\Multimedia\source\repos\Sheet2SolutionsMethodsAndEnum\obj\Debug\net6.0\Sheet3SolutionsMethodsAndEnum.csproj.CoreCompileInputs.cache
+C:\Users\Multimedia\source\repos\Sheet2SolutionsMethodsAndEnum\obj\Debug\net6.0\Sheet3SolutionsMethodsAndEnum.dll
+C:\Users\Multimedia\source\repos\Sheet2SolutionsMethodsAndEnum\obj\Debug\net6.0\ref\Sheet3SolutionsMethodsAndEnum.dll
+C:\Users\Multimedia\source\repos\Sheet2SolutionsMethodsAndEnum\obj\Debug\net6.0\Sheet3SolutionsMethodsAndEnum.pdb
+C:\Users\Multimedia\source\repos\Sheet2SolutionsMethodsAndEnum\obj\Debug\net6.0\Sheet3SolutionsMethodsAndEnum.genruntimeconfig.cache
+C:\Users\Multimedia\source\repos\Sheet2SolutionsMethodsAndEnum\obj\Debug\net6.0\Sheet3SolutionsMethodsAndEnum.csproj.AssemblyReference.cache

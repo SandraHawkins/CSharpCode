@@ -1,0 +1,11 @@
+C:\Users\Multimedia\source\repos\SandraTesting\bin\Debug\SandraTesting.exe.config
+C:\Users\Multimedia\source\repos\SandraTesting\bin\Debug\SandraTesting.exe
+C:\Users\Multimedia\source\repos\SandraTesting\bin\Debug\SandraTesting.pdb
+C:\Users\Multimedia\source\repos\SandraTesting\obj\Debug\SandraTesting.csproj.AssemblyReference.cache
+C:\Users\Multimedia\source\repos\SandraTesting\obj\Debug\SandraTesting.csproj.SuggestedBindingRedirects.cache
+C:\Users\Multimedia\source\repos\SandraTesting\obj\Debug\SandraTesting.Form1.resources
+C:\Users\Multimedia\source\repos\SandraTesting\obj\Debug\SandraTesting.Properties.Resources.resources
+C:\Users\Multimedia\source\repos\SandraTesting\obj\Debug\SandraTesting.csproj.GenerateResource.cache
+C:\Users\Multimedia\source\repos\SandraTesting\obj\Debug\SandraTesting.csproj.CoreCompileInputs.cache
+C:\Users\Multimedia\source\repos\SandraTesting\obj\Debug\SandraTesting.exe
+C:\Users\Multimedia\source\repos\SandraTesting\obj\Debug\SandraTesting.pdb

@@ -1,0 +1,24 @@
+1
+Milk
+1 Litre
+1.49
+2
+Bread
+1 Loaf
+1.29
+3
+Grapes
+Box of Black Grapes
+2.29
+4
+Chocolate Sauce
+200g
+3.99
+5
+Apples
+Bag of 8
+2.25
+6
+Breaded Fish
+Pack of 4
+2.99

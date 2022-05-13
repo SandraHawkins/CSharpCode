@@ -1,0 +1,11 @@
+C:\Users\Multimedia\source\repos\PizzaShop\bin\Debug\PizzaShop.exe.config
+C:\Users\Multimedia\source\repos\PizzaShop\bin\Debug\PizzaShop.exe
+C:\Users\Multimedia\source\repos\PizzaShop\bin\Debug\PizzaShop.pdb
+C:\Users\Multimedia\source\repos\PizzaShop\obj\Debug\PizzaShop.csproj.AssemblyReference.cache
+C:\Users\Multimedia\source\repos\PizzaShop\obj\Debug\PizzaShop.csproj.SuggestedBindingRedirects.cache
+C:\Users\Multimedia\source\repos\PizzaShop\obj\Debug\PizzaShop.Form1.resources
+C:\Users\Multimedia\source\repos\PizzaShop\obj\Debug\PizzaShop.Properties.Resources.resources
+C:\Users\Multimedia\source\repos\PizzaShop\obj\Debug\PizzaShop.csproj.GenerateResource.cache
+C:\Users\Multimedia\source\repos\PizzaShop\obj\Debug\PizzaShop.csproj.CoreCompileInputs.cache
+C:\Users\Multimedia\source\repos\PizzaShop\obj\Debug\PizzaShop.exe
+C:\Users\Multimedia\source\repos\PizzaShop\obj\Debug\PizzaShop.pdb

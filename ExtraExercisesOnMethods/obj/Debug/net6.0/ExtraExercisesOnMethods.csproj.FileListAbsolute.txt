@@ -1,0 +1,15 @@
+C:\Users\Multimedia\source\repos\ExtraExercisesOnMethods\bin\Debug\net6.0\ExtraExercisesOnMethods.exe
+C:\Users\Multimedia\source\repos\ExtraExercisesOnMethods\bin\Debug\net6.0\ExtraExercisesOnMethods.deps.json
+C:\Users\Multimedia\source\repos\ExtraExercisesOnMethods\bin\Debug\net6.0\ExtraExercisesOnMethods.runtimeconfig.json
+C:\Users\Multimedia\source\repos\ExtraExercisesOnMethods\bin\Debug\net6.0\ExtraExercisesOnMethods.dll
+C:\Users\Multimedia\source\repos\ExtraExercisesOnMethods\bin\Debug\net6.0\ref\ExtraExercisesOnMethods.dll
+C:\Users\Multimedia\source\repos\ExtraExercisesOnMethods\bin\Debug\net6.0\ExtraExercisesOnMethods.pdb
+C:\Users\Multimedia\source\repos\ExtraExercisesOnMethods\obj\Debug\net6.0\ExtraExercisesOnMethods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Multimedia\source\repos\ExtraExercisesOnMethods\obj\Debug\net6.0\ExtraExercisesOnMethods.AssemblyInfoInputs.cache
+C:\Users\Multimedia\source\repos\ExtraExercisesOnMethods\obj\Debug\net6.0\ExtraExercisesOnMethods.AssemblyInfo.cs
+C:\Users\Multimedia\source\repos\ExtraExercisesOnMethods\obj\Debug\net6.0\ExtraExercisesOnMethods.csproj.CoreCompileInputs.cache
+C:\Users\Multimedia\source\repos\ExtraExercisesOnMethods\obj\Debug\net6.0\ExtraExercisesOnMethods.dll
+C:\Users\Multimedia\source\repos\ExtraExercisesOnMethods\obj\Debug\net6.0\ref\ExtraExercisesOnMethods.dll
+C:\Users\Multimedia\source\repos\ExtraExercisesOnMethods\obj\Debug\net6.0\ExtraExercisesOnMethods.pdb
+C:\Users\Multimedia\source\repos\ExtraExercisesOnMethods\obj\Debug\net6.0\ExtraExercisesOnMethods.genruntimeconfig.cache
+C:\Users\Multimedia\source\repos\ExtraExercisesOnMethods\obj\Debug\net6.0\ExtraExercisesOnMethods.csproj.AssemblyReference.cache

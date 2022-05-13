@@ -1,0 +1,15 @@
+C:\Users\Multimedia\source\repos\ExerciseSheet2SolutionsLoopsAndArrays\bin\Debug\net6.0\ExerciseSheet2SolutionsLoopsAndArrays.exe
+C:\Users\Multimedia\source\repos\ExerciseSheet2SolutionsLoopsAndArrays\bin\Debug\net6.0\ExerciseSheet2SolutionsLoopsAndArrays.deps.json
+C:\Users\Multimedia\source\repos\ExerciseSheet2SolutionsLoopsAndArrays\bin\Debug\net6.0\ExerciseSheet2SolutionsLoopsAndArrays.runtimeconfig.json
+C:\Users\Multimedia\source\repos\ExerciseSheet2SolutionsLoopsAndArrays\bin\Debug\net6.0\ExerciseSheet2SolutionsLoopsAndArrays.dll
+C:\Users\Multimedia\source\repos\ExerciseSheet2SolutionsLoopsAndArrays\bin\Debug\net6.0\ref\ExerciseSheet2SolutionsLoopsAndArrays.dll
+C:\Users\Multimedia\source\repos\ExerciseSheet2SolutionsLoopsAndArrays\bin\Debug\net6.0\ExerciseSheet2SolutionsLoopsAndArrays.pdb
+C:\Users\Multimedia\source\repos\ExerciseSheet2SolutionsLoopsAndArrays\obj\Debug\net6.0\ExerciseSheet2SolutionsLoopsAndArrays.csproj.AssemblyReference.cache
+C:\Users\Multimedia\source\repos\ExerciseSheet2SolutionsLoopsAndArrays\obj\Debug\net6.0\ExerciseSheet2SolutionsLoopsAndArrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Multimedia\source\repos\ExerciseSheet2SolutionsLoopsAndArrays\obj\Debug\net6.0\ExerciseSheet2SolutionsLoopsAndArrays.AssemblyInfoInputs.cache
+C:\Users\Multimedia\source\repos\ExerciseSheet2SolutionsLoopsAndArrays\obj\Debug\net6.0\ExerciseSheet2SolutionsLoopsAndArrays.AssemblyInfo.cs
+C:\Users\Multimedia\source\repos\ExerciseSheet2SolutionsLoopsAndArrays\obj\Debug\net6.0\ExerciseSheet2SolutionsLoopsAndArrays.csproj.CoreCompileInputs.cache
+C:\Users\Multimedia\source\repos\ExerciseSheet2SolutionsLoopsAndArrays\obj\Debug\net6.0\ExerciseSheet2SolutionsLoopsAndArrays.dll
+C:\Users\Multimedia\source\repos\ExerciseSheet2SolutionsLoopsAndArrays\obj\Debug\net6.0\ref\ExerciseSheet2SolutionsLoopsAndArrays.dll
+C:\Users\Multimedia\source\repos\ExerciseSheet2SolutionsLoopsAndArrays\obj\Debug\net6.0\ExerciseSheet2SolutionsLoopsAndArrays.pdb
+C:\Users\Multimedia\source\repos\ExerciseSheet2SolutionsLoopsAndArrays\obj\Debug\net6.0\ExerciseSheet2SolutionsLoopsAndArrays.genruntimeconfig.cache

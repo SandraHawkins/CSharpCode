@@ -1,0 +1,12 @@
+C:\Users\Multimedia\source\repos\LearnersDatabase\bin\Debug\LearnersDatabase.exe.config
+C:\Users\Multimedia\source\repos\LearnersDatabase\bin\Debug\LearnersDatabase.exe
+C:\Users\Multimedia\source\repos\LearnersDatabase\bin\Debug\LearnersDatabase.pdb
+C:\Users\Multimedia\source\repos\LearnersDatabase\obj\Debug\LearnersDatabase.csproj.AssemblyReference.cache
+C:\Users\Multimedia\source\repos\LearnersDatabase\obj\Debug\LearnersDatabase.csproj.SuggestedBindingRedirects.cache
+C:\Users\Multimedia\source\repos\LearnersDatabase\obj\Debug\LearnersDatabase.Properties.Resources.resources
+C:\Users\Multimedia\source\repos\LearnersDatabase\obj\Debug\LearnersDatabase.csproj.GenerateResource.cache
+C:\Users\Multimedia\source\repos\LearnersDatabase\obj\Debug\LearnersDatabase.csproj.CoreCompileInputs.cache
+C:\Users\Multimedia\source\repos\LearnersDatabase\obj\Debug\LearnersDatabase.exe
+C:\Users\Multimedia\source\repos\LearnersDatabase\obj\Debug\LearnersDatabase.pdb
+C:\Users\Multimedia\source\repos\LearnersDatabase\obj\Debug\view.FrmSearch.resources
+C:\Users\Multimedia\source\repos\LearnersDatabase\obj\Debug\view.FrmMainForm.resources

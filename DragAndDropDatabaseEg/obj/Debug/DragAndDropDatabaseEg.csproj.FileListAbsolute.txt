@@ -1,0 +1,11 @@
+C:\Users\Multimedia\source\repos\DragAndDropDatabaseEg\bin\Debug\DragAndDropDatabaseEg.exe.config
+C:\Users\Multimedia\source\repos\DragAndDropDatabaseEg\bin\Debug\DragAndDropDatabaseEg.exe
+C:\Users\Multimedia\source\repos\DragAndDropDatabaseEg\bin\Debug\DragAndDropDatabaseEg.pdb
+C:\Users\Multimedia\source\repos\DragAndDropDatabaseEg\obj\Debug\DragAndDropDatabaseEg.csproj.AssemblyReference.cache
+C:\Users\Multimedia\source\repos\DragAndDropDatabaseEg\obj\Debug\DragAndDropDatabaseEg.csproj.SuggestedBindingRedirects.cache
+C:\Users\Multimedia\source\repos\DragAndDropDatabaseEg\obj\Debug\DragAndDropDatabaseEg.Form1.resources
+C:\Users\Multimedia\source\repos\DragAndDropDatabaseEg\obj\Debug\DragAndDropDatabaseEg.Properties.Resources.resources
+C:\Users\Multimedia\source\repos\DragAndDropDatabaseEg\obj\Debug\DragAndDropDatabaseEg.csproj.GenerateResource.cache
+C:\Users\Multimedia\source\repos\DragAndDropDatabaseEg\obj\Debug\DragAndDropDatabaseEg.csproj.CoreCompileInputs.cache
+C:\Users\Multimedia\source\repos\DragAndDropDatabaseEg\obj\Debug\DragAndDropDatabaseEg.exe
+C:\Users\Multimedia\source\repos\DragAndDropDatabaseEg\obj\Debug\DragAndDropDatabaseEg.pdb

@@ -1,0 +1,11 @@
+C:\Users\Multimedia\source\repos\FilesWritingToAndReadingFrom\bin\Debug\FilesWritingToAndReadingFrom.exe.config
+C:\Users\Multimedia\source\repos\FilesWritingToAndReadingFrom\bin\Debug\FilesWritingToAndReadingFrom.exe
+C:\Users\Multimedia\source\repos\FilesWritingToAndReadingFrom\bin\Debug\FilesWritingToAndReadingFrom.pdb
+C:\Users\Multimedia\source\repos\FilesWritingToAndReadingFrom\obj\Debug\FilesWritingToAndReadingFrom.csproj.AssemblyReference.cache
+C:\Users\Multimedia\source\repos\FilesWritingToAndReadingFrom\obj\Debug\FilesWritingToAndReadingFrom.csproj.SuggestedBindingRedirects.cache
+C:\Users\Multimedia\source\repos\FilesWritingToAndReadingFrom\obj\Debug\FilesWritingToAndReadingFrom.Form1.resources
+C:\Users\Multimedia\source\repos\FilesWritingToAndReadingFrom\obj\Debug\FilesWritingToAndReadingFrom.Properties.Resources.resources
+C:\Users\Multimedia\source\repos\FilesWritingToAndReadingFrom\obj\Debug\FilesWritingToAndReadingFrom.csproj.GenerateResource.cache
+C:\Users\Multimedia\source\repos\FilesWritingToAndReadingFrom\obj\Debug\FilesWritingToAndReadingFrom.csproj.CoreCompileInputs.cache
+C:\Users\Multimedia\source\repos\FilesWritingToAndReadingFrom\obj\Debug\FilesWritingToAndReadingFrom.exe
+C:\Users\Multimedia\source\repos\FilesWritingToAndReadingFrom\obj\Debug\FilesWritingToAndReadingFrom.pdb

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Sheet2SolutionsMethodsAndEnum/1.0.0": {
+        "runtime": {
+          "Sheet2SolutionsMethodsAndEnum.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Sheet2SolutionsMethodsAndEnum/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

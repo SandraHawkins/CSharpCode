@@ -1,0 +1,11 @@
+C:\Users\Multimedia\source\repos\TestingLocalDatabase\bin\Debug\TestingLocalDatabase.exe.config
+C:\Users\Multimedia\source\repos\TestingLocalDatabase\bin\Debug\TestingLocalDatabase.exe
+C:\Users\Multimedia\source\repos\TestingLocalDatabase\bin\Debug\TestingLocalDatabase.pdb
+C:\Users\Multimedia\source\repos\TestingLocalDatabase\obj\Debug\TestingLocalDatabase.csproj.AssemblyReference.cache
+C:\Users\Multimedia\source\repos\TestingLocalDatabase\obj\Debug\TestingLocalDatabase.csproj.SuggestedBindingRedirects.cache
+C:\Users\Multimedia\source\repos\TestingLocalDatabase\obj\Debug\TestingLocalDatabase.Form1.resources
+C:\Users\Multimedia\source\repos\TestingLocalDatabase\obj\Debug\TestingLocalDatabase.Properties.Resources.resources
+C:\Users\Multimedia\source\repos\TestingLocalDatabase\obj\Debug\TestingLocalDatabase.csproj.GenerateResource.cache
+C:\Users\Multimedia\source\repos\TestingLocalDatabase\obj\Debug\TestingLocalDatabase.csproj.CoreCompileInputs.cache
+C:\Users\Multimedia\source\repos\TestingLocalDatabase\obj\Debug\TestingLocalDatabase.exe
+C:\Users\Multimedia\source\repos\TestingLocalDatabase\obj\Debug\TestingLocalDatabase.pdb

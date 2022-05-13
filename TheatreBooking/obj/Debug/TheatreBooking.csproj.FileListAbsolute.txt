@@ -1,0 +1,13 @@
+C:\Users\Multimedia\source\repos\TheatreBooking\bin\Debug\TheatreBooking.exe.config
+C:\Users\Multimedia\source\repos\TheatreBooking\bin\Debug\TheatreBooking.exe
+C:\Users\Multimedia\source\repos\TheatreBooking\bin\Debug\TheatreBooking.pdb
+C:\Users\Multimedia\source\repos\TheatreBooking\obj\Debug\TheatreBooking.csproj.AssemblyReference.cache
+C:\Users\Multimedia\source\repos\TheatreBooking\obj\Debug\TheatreBooking.csproj.SuggestedBindingRedirects.cache
+C:\Users\Multimedia\source\repos\TheatreBooking\obj\Debug\TheatreBooking.Form1.resources
+C:\Users\Multimedia\source\repos\TheatreBooking\obj\Debug\TheatreBooking.NewBooking.resources
+C:\Users\Multimedia\source\repos\TheatreBooking\obj\Debug\TheatreBooking.Properties.Resources.resources
+C:\Users\Multimedia\source\repos\TheatreBooking\obj\Debug\TheatreBooking.csproj.GenerateResource.cache
+C:\Users\Multimedia\source\repos\TheatreBooking\obj\Debug\TheatreBooking.csproj.CoreCompileInputs.cache
+C:\Users\Multimedia\source\repos\TheatreBooking\obj\Debug\TheatreBooking.exe
+C:\Users\Multimedia\source\repos\TheatreBooking\obj\Debug\TheatreBooking.pdb
+C:\Users\Multimedia\source\repos\TheatreBooking\obj\Debug\TheatreBooking.SelectPlayFromListbox.resources

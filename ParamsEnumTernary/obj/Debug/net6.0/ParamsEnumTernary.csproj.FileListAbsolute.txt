@@ -1,0 +1,15 @@
+C:\Users\Multimedia\source\repos\ParamsEnumTernary\bin\Debug\net6.0\ParamsEnumTernary.exe
+C:\Users\Multimedia\source\repos\ParamsEnumTernary\bin\Debug\net6.0\ParamsEnumTernary.deps.json
+C:\Users\Multimedia\source\repos\ParamsEnumTernary\bin\Debug\net6.0\ParamsEnumTernary.runtimeconfig.json
+C:\Users\Multimedia\source\repos\ParamsEnumTernary\bin\Debug\net6.0\ParamsEnumTernary.dll
+C:\Users\Multimedia\source\repos\ParamsEnumTernary\bin\Debug\net6.0\ref\ParamsEnumTernary.dll
+C:\Users\Multimedia\source\repos\ParamsEnumTernary\bin\Debug\net6.0\ParamsEnumTernary.pdb
+C:\Users\Multimedia\source\repos\ParamsEnumTernary\obj\Debug\net6.0\ParamsEnumTernary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Multimedia\source\repos\ParamsEnumTernary\obj\Debug\net6.0\ParamsEnumTernary.AssemblyInfoInputs.cache
+C:\Users\Multimedia\source\repos\ParamsEnumTernary\obj\Debug\net6.0\ParamsEnumTernary.AssemblyInfo.cs
+C:\Users\Multimedia\source\repos\ParamsEnumTernary\obj\Debug\net6.0\ParamsEnumTernary.csproj.CoreCompileInputs.cache
+C:\Users\Multimedia\source\repos\ParamsEnumTernary\obj\Debug\net6.0\ParamsEnumTernary.dll
+C:\Users\Multimedia\source\repos\ParamsEnumTernary\obj\Debug\net6.0\ref\ParamsEnumTernary.dll
+C:\Users\Multimedia\source\repos\ParamsEnumTernary\obj\Debug\net6.0\ParamsEnumTernary.pdb
+C:\Users\Multimedia\source\repos\ParamsEnumTernary\obj\Debug\net6.0\ParamsEnumTernary.genruntimeconfig.cache
+C:\Users\Multimedia\source\repos\ParamsEnumTernary\obj\Debug\net6.0\ParamsEnumTernary.csproj.AssemblyReference.cache

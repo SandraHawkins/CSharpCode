@@ -1,0 +1,15 @@
+C:\Users\Multimedia\source\repos\Sheet2ExerciseMark2\bin\Debug\net6.0\Sheet2ExerciseMark2.exe
+C:\Users\Multimedia\source\repos\Sheet2ExerciseMark2\bin\Debug\net6.0\Sheet2ExerciseMark2.deps.json
+C:\Users\Multimedia\source\repos\Sheet2ExerciseMark2\bin\Debug\net6.0\Sheet2ExerciseMark2.runtimeconfig.json
+C:\Users\Multimedia\source\repos\Sheet2ExerciseMark2\bin\Debug\net6.0\Sheet2ExerciseMark2.dll
+C:\Users\Multimedia\source\repos\Sheet2ExerciseMark2\bin\Debug\net6.0\ref\Sheet2ExerciseMark2.dll
+C:\Users\Multimedia\source\repos\Sheet2ExerciseMark2\bin\Debug\net6.0\Sheet2ExerciseMark2.pdb
+C:\Users\Multimedia\source\repos\Sheet2ExerciseMark2\obj\Debug\net6.0\Sheet2ExerciseMark2.csproj.AssemblyReference.cache
+C:\Users\Multimedia\source\repos\Sheet2ExerciseMark2\obj\Debug\net6.0\Sheet2ExerciseMark2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Multimedia\source\repos\Sheet2ExerciseMark2\obj\Debug\net6.0\Sheet2ExerciseMark2.AssemblyInfoInputs.cache
+C:\Users\Multimedia\source\repos\Sheet2ExerciseMark2\obj\Debug\net6.0\Sheet2ExerciseMark2.AssemblyInfo.cs
+C:\Users\Multimedia\source\repos\Sheet2ExerciseMark2\obj\Debug\net6.0\Sheet2ExerciseMark2.csproj.CoreCompileInputs.cache
+C:\Users\Multimedia\source\repos\Sheet2ExerciseMark2\obj\Debug\net6.0\Sheet2ExerciseMark2.dll
+C:\Users\Multimedia\source\repos\Sheet2ExerciseMark2\obj\Debug\net6.0\ref\Sheet2ExerciseMark2.dll
+C:\Users\Multimedia\source\repos\Sheet2ExerciseMark2\obj\Debug\net6.0\Sheet2ExerciseMark2.pdb
+C:\Users\Multimedia\source\repos\Sheet2ExerciseMark2\obj\Debug\net6.0\Sheet2ExerciseMark2.genruntimeconfig.cache

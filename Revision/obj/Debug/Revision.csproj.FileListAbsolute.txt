@@ -1,0 +1,11 @@
+C:\Users\Multimedia\source\repos\Revision\bin\Debug\Revision.exe.config
+C:\Users\Multimedia\source\repos\Revision\bin\Debug\Revision.exe
+C:\Users\Multimedia\source\repos\Revision\bin\Debug\Revision.pdb
+C:\Users\Multimedia\source\repos\Revision\obj\Debug\Revision.csproj.AssemblyReference.cache
+C:\Users\Multimedia\source\repos\Revision\obj\Debug\Revision.csproj.SuggestedBindingRedirects.cache
+C:\Users\Multimedia\source\repos\Revision\obj\Debug\Revision.Form1.resources
+C:\Users\Multimedia\source\repos\Revision\obj\Debug\Revision.Properties.Resources.resources
+C:\Users\Multimedia\source\repos\Revision\obj\Debug\Revision.csproj.GenerateResource.cache
+C:\Users\Multimedia\source\repos\Revision\obj\Debug\Revision.csproj.CoreCompileInputs.cache
+C:\Users\Multimedia\source\repos\Revision\obj\Debug\Revision.exe
+C:\Users\Multimedia\source\repos\Revision\obj\Debug\Revision.pdb

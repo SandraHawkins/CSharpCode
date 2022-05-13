@@ -1,0 +1,14 @@
+C:\Users\Multimedia\source\repos\LoginDetailsLocalServiceDatabase\bin\Debug\LoginDetails.mdf
+C:\Users\Multimedia\source\repos\LoginDetailsLocalServiceDatabase\bin\Debug\LoginDetails_log.ldf
+C:\Users\Multimedia\source\repos\LoginDetailsLocalServiceDatabase\bin\Debug\LoginDetailsLocalServiceDatabase.exe.config
+C:\Users\Multimedia\source\repos\LoginDetailsLocalServiceDatabase\bin\Debug\LoginDetailsLocalServiceDatabase.exe
+C:\Users\Multimedia\source\repos\LoginDetailsLocalServiceDatabase\bin\Debug\LoginDetailsLocalServiceDatabase.pdb
+C:\Users\Multimedia\source\repos\LoginDetailsLocalServiceDatabase\obj\Debug\LoginDetailsLocalServiceDatabase.csproj.AssemblyReference.cache
+C:\Users\Multimedia\source\repos\LoginDetailsLocalServiceDatabase\obj\Debug\LoginDetailsLocalServiceDatabase.csproj.SuggestedBindingRedirects.cache
+C:\Users\Multimedia\source\repos\LoginDetailsLocalServiceDatabase\obj\Debug\LoginDetailsLocalServiceDatabase.Form1.resources
+C:\Users\Multimedia\source\repos\LoginDetailsLocalServiceDatabase\obj\Debug\LoginDetailsLocalServiceDatabase.Properties.Resources.resources
+C:\Users\Multimedia\source\repos\LoginDetailsLocalServiceDatabase\obj\Debug\LoginDetailsLocalServiceDatabase.csproj.GenerateResource.cache
+C:\Users\Multimedia\source\repos\LoginDetailsLocalServiceDatabase\obj\Debug\LoginDetailsLocalServiceDatabase.csproj.CoreCompileInputs.cache
+C:\Users\Multimedia\source\repos\LoginDetailsLocalServiceDatabase\obj\Debug\LoginDetailsLocalServiceDatabase.exe
+C:\Users\Multimedia\source\repos\LoginDetailsLocalServiceDatabase\obj\Debug\LoginDetailsLocalServiceDatabase.pdb
+C:\Users\Multimedia\source\repos\LoginDetailsLocalServiceDatabase\obj\Debug\LoginDetailsLocalServiceDatabase.HelpDialog.resources

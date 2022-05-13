@@ -1,0 +1,15 @@
+C:\Users\Multimedia\source\repos\LoopsAndArrays\bin\Debug\net6.0\LoopsAndArrays.exe
+C:\Users\Multimedia\source\repos\LoopsAndArrays\bin\Debug\net6.0\LoopsAndArrays.deps.json
+C:\Users\Multimedia\source\repos\LoopsAndArrays\bin\Debug\net6.0\LoopsAndArrays.runtimeconfig.json
+C:\Users\Multimedia\source\repos\LoopsAndArrays\bin\Debug\net6.0\LoopsAndArrays.dll
+C:\Users\Multimedia\source\repos\LoopsAndArrays\bin\Debug\net6.0\ref\LoopsAndArrays.dll
+C:\Users\Multimedia\source\repos\LoopsAndArrays\bin\Debug\net6.0\LoopsAndArrays.pdb
+C:\Users\Multimedia\source\repos\LoopsAndArrays\obj\Debug\net6.0\LoopsAndArrays.csproj.AssemblyReference.cache
+C:\Users\Multimedia\source\repos\LoopsAndArrays\obj\Debug\net6.0\LoopsAndArrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Multimedia\source\repos\LoopsAndArrays\obj\Debug\net6.0\LoopsAndArrays.AssemblyInfoInputs.cache
+C:\Users\Multimedia\source\repos\LoopsAndArrays\obj\Debug\net6.0\LoopsAndArrays.AssemblyInfo.cs
+C:\Users\Multimedia\source\repos\LoopsAndArrays\obj\Debug\net6.0\LoopsAndArrays.csproj.CoreCompileInputs.cache
+C:\Users\Multimedia\source\repos\LoopsAndArrays\obj\Debug\net6.0\LoopsAndArrays.dll
+C:\Users\Multimedia\source\repos\LoopsAndArrays\obj\Debug\net6.0\ref\LoopsAndArrays.dll
+C:\Users\Multimedia\source\repos\LoopsAndArrays\obj\Debug\net6.0\LoopsAndArrays.pdb
+C:\Users\Multimedia\source\repos\LoopsAndArrays\obj\Debug\net6.0\LoopsAndArrays.genruntimeconfig.cache

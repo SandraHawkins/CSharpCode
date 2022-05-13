@@ -1,0 +1,15 @@
+C:\Users\Multimedia\source\repos\MethodsAndEnum\bin\Debug\net6.0\MethodsAndEnum.exe
+C:\Users\Multimedia\source\repos\MethodsAndEnum\bin\Debug\net6.0\MethodsAndEnum.deps.json
+C:\Users\Multimedia\source\repos\MethodsAndEnum\bin\Debug\net6.0\MethodsAndEnum.runtimeconfig.json
+C:\Users\Multimedia\source\repos\MethodsAndEnum\bin\Debug\net6.0\MethodsAndEnum.dll
+C:\Users\Multimedia\source\repos\MethodsAndEnum\bin\Debug\net6.0\ref\MethodsAndEnum.dll
+C:\Users\Multimedia\source\repos\MethodsAndEnum\bin\Debug\net6.0\MethodsAndEnum.pdb
+C:\Users\Multimedia\source\repos\MethodsAndEnum\obj\Debug\net6.0\MethodsAndEnum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Multimedia\source\repos\MethodsAndEnum\obj\Debug\net6.0\MethodsAndEnum.AssemblyInfoInputs.cache
+C:\Users\Multimedia\source\repos\MethodsAndEnum\obj\Debug\net6.0\MethodsAndEnum.AssemblyInfo.cs
+C:\Users\Multimedia\source\repos\MethodsAndEnum\obj\Debug\net6.0\MethodsAndEnum.csproj.CoreCompileInputs.cache
+C:\Users\Multimedia\source\repos\MethodsAndEnum\obj\Debug\net6.0\MethodsAndEnum.dll
+C:\Users\Multimedia\source\repos\MethodsAndEnum\obj\Debug\net6.0\ref\MethodsAndEnum.dll
+C:\Users\Multimedia\source\repos\MethodsAndEnum\obj\Debug\net6.0\MethodsAndEnum.pdb
+C:\Users\Multimedia\source\repos\MethodsAndEnum\obj\Debug\net6.0\MethodsAndEnum.genruntimeconfig.cache
+C:\Users\Multimedia\source\repos\MethodsAndEnum\obj\Debug\net6.0\MethodsAndEnum.csproj.AssemblyReference.cache

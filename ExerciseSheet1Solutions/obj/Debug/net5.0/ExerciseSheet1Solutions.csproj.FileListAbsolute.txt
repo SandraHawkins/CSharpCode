@@ -1,0 +1,5 @@
+C:\Users\Multimedia\source\repos\ExerciseSheet1Solutions\obj\Debug\net5.0\ExerciseSheet1Solutions.csproj.AssemblyReference.cache
+C:\Users\Multimedia\source\repos\ExerciseSheet1Solutions\obj\Debug\net5.0\ExerciseSheet1Solutions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Multimedia\source\repos\ExerciseSheet1Solutions\obj\Debug\net5.0\ExerciseSheet1Solutions.AssemblyInfoInputs.cache
+C:\Users\Multimedia\source\repos\ExerciseSheet1Solutions\obj\Debug\net5.0\ExerciseSheet1Solutions.AssemblyInfo.cs
+C:\Users\Multimedia\source\repos\ExerciseSheet1Solutions\obj\Debug\net5.0\ExerciseSheet1Solutions.csproj.CoreCompileInputs.cache

@@ -1,0 +1,12 @@
+C:\Users\Multimedia\source\repos\ProjectWithTwoForms\obj\Debug\ProjectWithTwoForms.csproj.AssemblyReference.cache
+C:\Users\Multimedia\source\repos\ProjectWithTwoForms\obj\Debug\ProjectWithTwoForms.csproj.SuggestedBindingRedirects.cache
+C:\Users\Multimedia\source\repos\ProjectWithTwoForms\obj\Debug\ProjectWithTwoForms.Form1.resources
+C:\Users\Multimedia\source\repos\ProjectWithTwoForms\obj\Debug\ProjectWithTwoForms.Form2.resources
+C:\Users\Multimedia\source\repos\ProjectWithTwoForms\obj\Debug\ProjectWithTwoForms.Properties.Resources.resources
+C:\Users\Multimedia\source\repos\ProjectWithTwoForms\obj\Debug\ProjectWithTwoForms.csproj.GenerateResource.cache
+C:\Users\Multimedia\source\repos\ProjectWithTwoForms\obj\Debug\ProjectWithTwoForms.csproj.CoreCompileInputs.cache
+C:\Users\Multimedia\source\repos\ProjectWithTwoForms\bin\Debug\ProjectWithTwoForms.exe.config
+C:\Users\Multimedia\source\repos\ProjectWithTwoForms\bin\Debug\ProjectWithTwoForms.exe
+C:\Users\Multimedia\source\repos\ProjectWithTwoForms\bin\Debug\ProjectWithTwoForms.pdb
+C:\Users\Multimedia\source\repos\ProjectWithTwoForms\obj\Debug\ProjectWithTwoForms.exe
+C:\Users\Multimedia\source\repos\ProjectWithTwoForms\obj\Debug\ProjectWithTwoForms.pdb

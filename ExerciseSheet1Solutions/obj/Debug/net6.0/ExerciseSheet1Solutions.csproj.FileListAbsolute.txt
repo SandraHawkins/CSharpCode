@@ -1,0 +1,14 @@
+C:\Users\Multimedia\source\repos\ExerciseSheet1Solutions\bin\Debug\net6.0\ExerciseSheet1Solutions.exe
+C:\Users\Multimedia\source\repos\ExerciseSheet1Solutions\bin\Debug\net6.0\ExerciseSheet1Solutions.deps.json
+C:\Users\Multimedia\source\repos\ExerciseSheet1Solutions\bin\Debug\net6.0\ExerciseSheet1Solutions.runtimeconfig.json
+C:\Users\Multimedia\source\repos\ExerciseSheet1Solutions\bin\Debug\net6.0\ExerciseSheet1Solutions.dll
+C:\Users\Multimedia\source\repos\ExerciseSheet1Solutions\bin\Debug\net6.0\ref\ExerciseSheet1Solutions.dll
+C:\Users\Multimedia\source\repos\ExerciseSheet1Solutions\bin\Debug\net6.0\ExerciseSheet1Solutions.pdb
+C:\Users\Multimedia\source\repos\ExerciseSheet1Solutions\obj\Debug\net6.0\ExerciseSheet1Solutions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Multimedia\source\repos\ExerciseSheet1Solutions\obj\Debug\net6.0\ExerciseSheet1Solutions.AssemblyInfoInputs.cache
+C:\Users\Multimedia\source\repos\ExerciseSheet1Solutions\obj\Debug\net6.0\ExerciseSheet1Solutions.AssemblyInfo.cs
+C:\Users\Multimedia\source\repos\ExerciseSheet1Solutions\obj\Debug\net6.0\ExerciseSheet1Solutions.csproj.CoreCompileInputs.cache
+C:\Users\Multimedia\source\repos\ExerciseSheet1Solutions\obj\Debug\net6.0\ExerciseSheet1Solutions.dll
+C:\Users\Multimedia\source\repos\ExerciseSheet1Solutions\obj\Debug\net6.0\ref\ExerciseSheet1Solutions.dll
+C:\Users\Multimedia\source\repos\ExerciseSheet1Solutions\obj\Debug\net6.0\ExerciseSheet1Solutions.pdb
+C:\Users\Multimedia\source\repos\ExerciseSheet1Solutions\obj\Debug\net6.0\ExerciseSheet1Solutions.genruntimeconfig.cache

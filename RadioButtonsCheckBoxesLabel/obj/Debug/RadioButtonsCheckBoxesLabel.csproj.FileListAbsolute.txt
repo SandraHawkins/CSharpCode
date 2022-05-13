@@ -1,0 +1,11 @@
+C:\Users\Multimedia\source\repos\RadioButtonsCheckBoxesLabel\bin\Debug\RadioButtonsCheckBoxesLabel.exe.config
+C:\Users\Multimedia\source\repos\RadioButtonsCheckBoxesLabel\bin\Debug\RadioButtonsCheckBoxesLabel.exe
+C:\Users\Multimedia\source\repos\RadioButtonsCheckBoxesLabel\bin\Debug\RadioButtonsCheckBoxesLabel.pdb
+C:\Users\Multimedia\source\repos\RadioButtonsCheckBoxesLabel\obj\Debug\RadioButtonsCheckBoxesLabel.csproj.AssemblyReference.cache
+C:\Users\Multimedia\source\repos\RadioButtonsCheckBoxesLabel\obj\Debug\RadioButtonsCheckBoxesLabel.csproj.SuggestedBindingRedirects.cache
+C:\Users\Multimedia\source\repos\RadioButtonsCheckBoxesLabel\obj\Debug\RadioButtonsCheckBoxesLabel.Form1.resources
+C:\Users\Multimedia\source\repos\RadioButtonsCheckBoxesLabel\obj\Debug\RadioButtonsCheckBoxesLabel.Properties.Resources.resources
+C:\Users\Multimedia\source\repos\RadioButtonsCheckBoxesLabel\obj\Debug\RadioButtonsCheckBoxesLabel.csproj.GenerateResource.cache
+C:\Users\Multimedia\source\repos\RadioButtonsCheckBoxesLabel\obj\Debug\RadioButtonsCheckBoxesLabel.csproj.CoreCompileInputs.cache
+C:\Users\Multimedia\source\repos\RadioButtonsCheckBoxesLabel\obj\Debug\RadioButtonsCheckBoxesLabel.exe
+C:\Users\Multimedia\source\repos\RadioButtonsCheckBoxesLabel\obj\Debug\RadioButtonsCheckBoxesLabel.pdb
